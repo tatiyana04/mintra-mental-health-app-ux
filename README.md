@@ -63,6 +63,11 @@ We ran moderated usability tests and A/B tested several screens against the orig
 
 `Figma` · `FigJam` · `Toggl` (time tracking) · `Google Forms` (surveys)
 
+<img width="273" height="557" alt="Screenshot 2026-07-05 at 10 51 51 PM" src="https://github.com/user-attachments/assets/ecd0ae5e-1e78-44e5-858a-37757d4d6789" />
+<img width="269" height="548" alt="Screenshot 2026-07-05 at 10 54 10 PM" src="https://github.com/user-attachments/assets/6ab62005-3ca4-4328-9363-9bfb47cad076" />
+<img width="262" height="545" alt="Screenshot 2026-07-05 at 10 54 38 PM" src="https://github.com/user-attachments/assets/1a908802-abf8-4373-ab5a-845db548ed89" />
+
+
 ## Links
 
 - [Figma Prototype](https://www.figma.com/design/KUxNARjLr0NHZwsDipYwLb/Mintra?node-id=1-13298)
